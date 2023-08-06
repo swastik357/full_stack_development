@@ -22,3 +22,17 @@ h2 {
     font-family: Roboto, sans-serif;
     font-weight: 100;
 }
+
+h2:hover {
+    color: aqua;
+    font-weight: 400;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
+
+h1:hover {
+    color: gold;
+    font-weight: 400;
+    transform: translateY(-0.1em);
+    cursor: pointer;
+}
