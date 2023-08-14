@@ -1,0 +1,13 @@
+.pokemon {
+    display: inline-block;
+    text-align: center;
+}
+
+.pokemon img {
+    display: block;
+}
+
+h1 {
+    font-family: fantasy, Verdana;
+    color: #0077b6;
+}
